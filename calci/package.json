@@ -6,8 +6,8 @@
   "author": "",
   "type": "commonjs",
   "main": "index.js",
- "scripts": {
-    "test": "npx jest"
+"scripts": {
+  "test": "node node_modules/jest/bin/jest.js"
 },
   "devDependencies": {
     "jest": "^30.5.1"
